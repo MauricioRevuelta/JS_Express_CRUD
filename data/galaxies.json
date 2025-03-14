@@ -1,0 +1,46 @@
+{
+  "celestial_bodies": [
+    {
+      "name": "Milky Way",
+      "type": "Galaxy",
+      "distance_light_years": "0",
+      "description": "The galaxy that contains our Solar System."
+    },
+    {
+      "name": "Andromeda",
+      "type": "Galaxy",
+      "distance_light_years": "2.5 million",
+      "description": "The closest spiral galaxy to the Milky Way."
+    },
+    {
+      "name": "Messier 87",
+      "type": "Galaxy",
+      "distance_light_years": "53 million",
+      "description": "A massive elliptical galaxy with a supermassive black hole."
+    },
+    {
+      "name": "Earth",
+      "type": "Planet",
+      "distance_light_years": "0",
+      "description": "The only known planet to support life."
+    },
+    {
+      "name": "Jupiter",
+      "type": "Planet",
+      "distance_light_years": "0",
+      "description": "The largest planet in the Solar System with a giant storm known as the Great Red Spot."
+    },
+    {
+      "name": "Kepler-22b",
+      "type": "Exoplanet",
+      "distance_light_years": "600",
+      "description": "A potentially habitable exoplanet orbiting within its star's habitable zone."
+    },
+    {
+      "name": "Proxima Centauri b",
+      "type": "Exoplanet",
+      "distance_light_years": "4.24",
+      "description": "An exoplanet in the habitable zone of the red dwarf Proxima Centauri."
+    }
+  ]
+}
