@@ -14,7 +14,7 @@ const port = 3000;
 //URL: http://localhost:3000/home
 app.get("/home", (req, res) => {
   res.send(
-    "Ildar Ziganshin, Mauricio Revuelta and Thiago Marquetti Sansivieri"
+    '<h1 style="color: green;">Ildar Ziganshin, Mauricio Revuelta and Thiago Marquetti Sansivieri</h1>'
   );
 });
 
